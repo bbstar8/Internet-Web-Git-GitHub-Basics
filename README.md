@@ -30,7 +30,7 @@ Follow the journey of a web request, from typing a URL to rendering a webpage in
 |[code](code/)    | contains code snippets    |          
 ----
 ## Published Article 📝
-The research has also been published as a detailed blog post for a broader audience. You can read it here: 👉 [How the Web Works: A Beginner-Friendly Guide]()
+The research has also been published as a detailed blog post for a broader audience. You can read it here: 👉 [How the Web Works: A Beginner-Friendly Guide](https://medium.com/@testimonyayesa/how-the-web-works-and-web-protocols-a-journey-through-the-internets-architecture-5bf532ab0e9d)
 
 ---
 ## How to Use 🚀
