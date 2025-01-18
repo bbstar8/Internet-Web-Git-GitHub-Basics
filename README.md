@@ -37,7 +37,7 @@ The research has also been published as a detailed blog post for a broader audie
 1. Fork this repository
 2. Clone it:
 ``` bash
-git clone https://github.com/bbstar8/how-the-web-works.git
+git clone https://github.com/YOUR-USERNAME/Internet-Web-Git-GitHub-Basics.git
 cd how-the-web-works
 
 ```
