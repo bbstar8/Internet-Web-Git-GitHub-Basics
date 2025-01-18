@@ -38,7 +38,7 @@ The research has also been published as a detailed blog post for a broader audie
 2. Clone it:
 ``` bash
 git clone https://github.com/YOUR-USERNAME/Internet-Web-Git-GitHub-Basics.git
-cd how-the-web-works
+cd Internet-Web-Git-GitHub-Basics
 
 ```
 3. Open article.md for a detailed write-up.
