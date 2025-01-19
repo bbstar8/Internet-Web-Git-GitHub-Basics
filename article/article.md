@@ -88,11 +88,11 @@ Here’s a simplified flow of how a typical web interaction occurs:
 ### A Postal Analogy for the Web
 
 * The Letter: 
- _The data (webpage, image, video) you’re sending or receiving.  
+The data (webpage, image, video) you’re sending or receiving.  
 * The Envelope: Protocols like HTTP/HTTPS, which package your data securely.  
 * The Address: The URL or IP address identifying the destination.  
 * The Postal Worker: The routers and networks that deliver your data to the correct server or client.  
-* The Post Office: DNS servers that help route your data to the right destination._
+* The Post Office: DNS servers that help route your data to the right destination.
 
 ----
 
